@@ -1185,3 +1185,8 @@ section {
 #footer .credits {
   font-size: 13px;
 }
+
+.profile{
+  border-radius: 50%;
+  width: 15rem;
+}
