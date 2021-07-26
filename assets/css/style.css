@@ -1190,3 +1190,16 @@ section {
   border-radius: 50%;
   width: 15rem;
 }
+/* 
+Projects
+*/
+.projects{
+  /* background-color: #011426; */
+  padding: 15px;
+
+}
+.card-item{
+  margin: 15px;
+  /* background-color: #2b2c3b; */
+
+}
